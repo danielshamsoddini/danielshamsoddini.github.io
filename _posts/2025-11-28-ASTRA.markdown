@@ -2,7 +2,7 @@
 layout: post
 title:  "ASTRA: A Negotiation Agent with Adaptive and Strategic Reasoning via Tool-integrated Action for Dynamic Offer Optimization"
 date:   2025-11-28 22:21:59 +00:00
-image: /images/pairwise.png
+image: /images/astra.png
 categories: research
 author: "Daniel Shamsoddini"
 authors: "Deuksin Kwon, Jiwon Hae, Emma Clift, <strong>Daniel Shamsoddini</strong>, Jonathan Gratch, Gale Lucas"
